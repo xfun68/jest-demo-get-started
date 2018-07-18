@@ -5,7 +5,10 @@
   "main": "index.js",
   "dependencies": {
   },
-  "devDependencies": {},
+  "devDependencies": {
+      "babel-preset-env": "*",
+      "jest": "*"
+  },
   "scripts": {
     "test": "jest"
   },
