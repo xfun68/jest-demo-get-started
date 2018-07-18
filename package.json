@@ -3,11 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
-      "babel-preset-env": "*",
-      "jest": "*"
+    "babel-preset-env": "*",
+    "jest": "*"
   },
   "scripts": {
     "test": "jest"
